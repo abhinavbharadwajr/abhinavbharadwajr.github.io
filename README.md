@@ -1,4 +1,4 @@
-# Protfolio - Abhinav BHaradwaj R
+# Portfolio - Abhinav Bharadwaj R
 
 A simple, clean, and responsive Portfolio based on **[al-folio](https://github.com/alshedivat/al-folio/)** built using **[Jekyll](https://jekyllrb.com/)**
 
