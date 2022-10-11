@@ -11,7 +11,7 @@ profile:
     <a href='https://goo.gl/maps/dFrksnuyQ7v7vQxeA'>Home :</a>
     <p>6/35, Prakasagaru Cross Street, Vijayalakshmipuram, Ambattur, Chennai, Thamizh Nadu 600053</p>
 
-timeline: true  # includes a list of news items
+timeline: true  # includes a list of Timeline items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
