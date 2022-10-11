@@ -1,12 +1,12 @@
 github_users:
-  - abhinavbharadwajr
+  - torvalds
+  - alshedivat
 
 github_repos:
-  - abhinavbharadwajr/symptomanalysisanddiseaseprdiction
-  - abhinavbharadwajr/bookmytrip
-  - abhinavbharadwajr/festivedegrafiya
-  - abhinavbharadwajr/hpPavilionGamingLaptop15-dk1514TX-hackintosh
-  - abhinavbharadwajr/candcppexamples
-  - abhinavbharadwajr/javaexamples
-  - abhinavbharadwajr/pythonexamples
-  - abhinavbharadwajr/guvicodekata
+  - alshedivat/al-folio
+  - twbs/bootstrap
+  - jekyll/jekyll
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - jpswalsh/academicons
+  - mathjax/MathJax

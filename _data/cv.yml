@@ -1,39 +1,26 @@
-- title: Personal Information
+- title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Abhinav Bharadwaj R
+      value: Albert Einstein
     - name: Date of Birth
-      value: 30th December 1997
+      value: 14th March 1879
     - name: Languages
-      value: English, Thamizh, Hindi
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor’s Degree in Computer Science and Engineering
-      institution: Shree Motilal Kanhaiyalal Institute of Technology, Chennai
-      year: 2019
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Grade - A+
-        - titel: Modules Trained on
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - Cloud Computing
-            - Artificial Intelligence
-            - Software Development and testing
-            - Programming and Data Structure
-            - Object Oriented Analysis and Design
-            - Database Management System
-            - Computer Architecture
-            - Microprocessor and Microcontroller
-            - Resource Management Techniques
-            - Computer Networks and Internet Programming
-            - Cryptography and Network Security
-        - title: Activities and Societies
-          contents:
-            - Speech at Debates
-            - Actively participating in and Volunteering in Institutional Events
-            - Organized multiple Events and coordinated with fellow studs.
+            - Sub-description 1.
+            - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
