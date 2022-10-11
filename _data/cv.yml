@@ -62,15 +62,19 @@
 - title: Academic Interests
   type: nested_list
   contents:
+    - title: Cloud and Beyond.
+      items:
+        - Exploring Cloud Technology and it's wide open scope in the evolving Modern Industry
+        - DevOps is Destiny
+    - title: Writing Tech Blog
+      items:
+        - Writing about latest Tech in the Town is a favorite Hobby.
     - title: Artificial Intelligence & Machine Learning
       items: 
-        - Description 1.
-    - title: Technology
-      items:
-        - Description 1.
-        - Description 2.
+        - Exploring capabilities of AI across various wokrspace.
+        - Learning to Train ML Models for Data Analysis and Data ETL workloads
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Book Reading, Music 
