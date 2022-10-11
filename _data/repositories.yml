@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - abhinavbharadwajr
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - abhinavbharadwajr/symptomanalysisanddiseaseprdiction
+  - abhinavbharadwajr/bookmytrip
+  - abhinavbharadwajr/festivedegrafiya
+  - abhinavbharadwajr/candcppexamples
+  - abhinavbharadwajr/javaexamples
+  - abhinavbharadwajr/pythonexamples
