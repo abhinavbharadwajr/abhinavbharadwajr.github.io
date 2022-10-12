@@ -7,11 +7,11 @@
             {%- if site.work_url -%}
             <a href="{{ site.work_url }}" title="Work"><i class="fas fa-briefcase"></i></a>
             {% endif %}
-            {%- if site.wikidata_id -%}
-            <a href="https://www.wikidata.org/wiki/{{ site.wikidata_id }}" title="Wikidata"><i class="fas fa-barcode"></i></a>
-            {% endif %}
             {%- if site.github_username -%}
             <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fab fa-github"></i></a>
+            {% endif %}
+            {%- if site.wikidata_id -%}
+            <a href="https://www.wikidata.org/wiki/{{ site.wikidata_id }}" title="Wikidata"><i class="fas fa-barcode"></i></a>
             {% endif %}
             {%- if site.gitlab_username -%}
             <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab"><i class="fab fa-gitlab"></i></a>
@@ -47,7 +47,7 @@
             <a href="https://facebook.com/{{ site.facebook_id }}" title="Facebook"><i class="fab fa-facebook"></i></a>
             {% endif %}
             {%- if site.whatspp_w -%}
-            <a href="https://wa.me/917200361295" title="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+            <a href="https://wa.me/{{ site.whatspp_w }}" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
             {% endif %}
             {%- if site.twitter_username -%}
             <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fab fa-twitter"></i></a>
