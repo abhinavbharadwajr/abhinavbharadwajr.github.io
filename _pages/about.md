@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p> <a href='https://goo.gl/maps/dFrksnuyQ7v7vQxeA'> Home </a> | <a href='https://goo.gl/maps/ZQHfgY8U3ipm3pYn9'> Office </a>. </p>
+    <p align="center"> <a href='https://goo.gl/maps/dFrksnuyQ7v7vQxeA'> Home </a> | <a href='https://goo.gl/maps/ZQHfgY8U3ipm3pYn9'> Office </a> </p>
 
 
 timeline: true  # includes a list of Timeline items
