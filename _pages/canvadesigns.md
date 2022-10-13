@@ -6,7 +6,7 @@ description: canva designs for various activities and public usage.
 nav: false
 nav_order: 5
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/canvadesgn0.md -->
 <div class="publications">
 
 {%- for y in page.years %}
