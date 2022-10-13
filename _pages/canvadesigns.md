@@ -1,12 +1,12 @@
 ---
-layout: page
-permalink: /canvadesigns/
+layout: blog
 title: canva designs
+permalink: /canvadesigns/
 description: canva designs for various activities and public usage.
 nav: false
 nav_order: 5
 ---
-<!-- _pages/canvadesgn0.md -->
+<!-- _pages/canvadesigns.md -->
 <div class="publications">
 
 {%- for y in page.years %}
