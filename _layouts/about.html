@@ -29,8 +29,8 @@ layout: default
               alt=page.profile.image -%}
             {% endif -%}
             {%- if page.profile.address %}
-            <div aling="center" class="address">
-              {{ page.profile.address }}
+            <div class="profile float-{%- if page.address.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+              {{ page.address }}
             </div>
             {%- endif %}
           </div>

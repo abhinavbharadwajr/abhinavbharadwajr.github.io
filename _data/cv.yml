@@ -12,21 +12,20 @@
   type: time_table
   contents:
     - title: Software Engineer - Cloud
-      institution: Servion Global Solutions
+      institution: Servion Global Solutions Private Limited
       year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Genesys Cloud CX Development / Implementation Engineer
+        - Genesys IVR Developer – Java Based Application
     - title: Networking Engineer
       institution: Tejas Networks Limited
       year: 2019 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Network Engineering / Technical Support
+        - Synchronous Digital Hierarchy (SDH)
+        - Ethernet over SDH
+        - Optical Transport Network (OTN)
+        - Dense wavelength division multiplexing (DWDM)
 
 - title: Education
   type: time_table
@@ -35,17 +34,25 @@
       institution: Shree Motilal Kanhaiyalal Fomra Institute of Technology, Kelambakam, Chennai
       year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - First Class Degree with 66.4 %
+        - title: Modules Trained on 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Cloud Computing and Artificial Intelligence
+            - Computer Networks and Internet Programming
+            - Cryptography and Network Security
+            - Programming and Data Structure
+            - Object Oriented Analysis and Design
+            - Software Development and Testing
+            - Resource Management Techniques
+            - Database Management System
+            - Computer Architecture with Microprocessor and Microcontroller
+
     - title: Senior Secondary (XII), Computer Science and Mathematics
       institution: G.K.Shetty Vivekananda Vidhyalaya Junior College, Ambattur, Chennai
       year: 2015
       description:
         - Percentage - 85.60%
+
     - title: Secondary (X), General Science
       institution: G.K.Shetty Vivekananda Vidhyalaya Junior College, Ambattur, Chennai
       year: 2013
@@ -55,9 +62,9 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015 - present
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/abhinavbharadwajr/hpPavilionGamingLaptop15-dk1514TX-hackintosh">hackintosh on hp Pavilion Gaming 15-dk1514TX based on OpenCore</a>
+      year: 2021 - present
+      description: an Tiring yet Interesting attempt to make a Fully Functioning hackintosh machine on hp Pavilion Gaming 15-dk1514TX based on OpenCore Bootloader.
 
 - title: Academic Interests
   type: nested_list
@@ -65,7 +72,7 @@
     - title: Cloud and Beyond.
       items:
         - Exploring Cloud Technology and it's wide open scope in the evolving Modern Industry
-        - DevOps is Destiny
+        - DevOps Engineering
     - title: Writing Tech Blog
       items:
         - Writing about latest Tech in the Town is a favorite Hobby.
@@ -77,4 +84,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Book Reading, Music 
+    - <u>Hobbies:</u> Music, Book Reading, Photography, Graphic Development, Audio and Video Editing, Cooking (occasionally), Housekeeping

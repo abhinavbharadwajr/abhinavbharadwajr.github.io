@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Symptom Analysis and Disease Prediction
+description: A basic project comprising Python and Jupyter Notebooks to predict Disease based on the Symptoms from User Input.
 img: assets/img/12.jpg
 importance: 1
 category: work

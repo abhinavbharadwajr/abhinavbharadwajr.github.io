@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
-nav_order: 6
-dropdown: false
+title: other works
+nav: true
+nav_order: 4
+dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: canva designs
+      permalink: /canvadesigns/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: music
+      permalink: /music/
 ---
