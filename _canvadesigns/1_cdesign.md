@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Symptom Analysis and Disease Prediction
+title: groove West
 description: A basic project comprising Python and Jupyter Notebooks to predict Disease based on the Symptoms from User Input.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: albumart
 ---
 
 Every project has a beautiful feature showcase page.
