@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Symptom Analysis and Disease Prognostication using Machine Learning and Big Data
+title: Symptom Analysis and Disease Prediction
 description: A basic project comprising Python and Jupyter Notebooks to predict Disease based on the Symptoms from User Input.
 img: assets/img/proj-ug-banner.png
 importance: 1
 category: academic
 ---
+
+<h2>Symptom Analysis and Disease Prognostication using Machine Learning and Big Data</h2>
 
 Developed along with Mr. [Kingston M](https://www.instagram.com/kingston_jamaika/), B.E., as part of our Finnal Semester Academic Project for out U.G. Programme in Engineering.
 
