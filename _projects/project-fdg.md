@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Festive de Grafiya
+description: Website of grafiya 2K19, a National Level Technical Symposium
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://abhinavbharadwajr.github.io/festivedegrafiya
 importance: 3
-category: work
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

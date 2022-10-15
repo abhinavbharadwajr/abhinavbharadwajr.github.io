@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Symptom Analysis and Disease Prediction
-description: A basic project comprising Python and Jupyter Notebooks to predict Disease based on the Symptoms from User Input.
-img: assets/img/12.jpg
-importance: 1
-category: work
+title: BookmyTrip - Travel Ticketing System
+description: a Basic program developed in C++ to demonstrate Travel Ticket Booking system.
+img: assets/img/proj-hs-banner.png
+importance: 2
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

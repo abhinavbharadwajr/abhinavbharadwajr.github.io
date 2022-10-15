@@ -5,8 +5,8 @@ permalink: /
 subtitle: <strong>Multi-Cloud DevOps Engineer</strong>  •  <strong>SE - CC Delivery</strong> @ <a href="https://servion.com/">Servion Global Solutions</a>  •  learn ⇄ imagine ⇆ build
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: prof_pic.png
+  image_circular: false  # crops the image to make it circular
   address: >
     <p align="center"> <a href='https://goo.gl/maps/dFrksnuyQ7v7vQxeA'> Home </a>  •  <a href='https://goo.gl/maps/ZQHfgY8U3ipm3pYn9'> Office </a> </p>
 
