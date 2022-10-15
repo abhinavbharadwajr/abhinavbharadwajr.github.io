@@ -2,7 +2,7 @@
 layout: page
 title: Festive de Grafiya
 description: Website of grafiya 2K19, a National Level Technical Symposium
-img: assets/img/7.jpg
+img: assets/img/proj-fdg-banner.png
 redirect: https://abhinavbharadwajr.github.io/festivedegrafiya
 importance: 3
 category: academic
