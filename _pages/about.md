@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there :wave: Thank for stopping by :wink: :v:
+Hey there :wave: Thanks for stopping by :wink: :v:
 
 I'm Abhinav, a Computer Science and Engineering Graduate from Chennai, India.
 

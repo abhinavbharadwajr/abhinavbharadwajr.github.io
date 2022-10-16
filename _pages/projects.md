@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 1
 display_categories: [academic, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- _pages/projects.md -->
