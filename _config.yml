@@ -143,7 +143,7 @@ collections:
     permalink: /timeline/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /projects/:title/
 
 timeline_scrollable: true # adds a vertical scroll bar if there are more than 3 timeline items
 timeline_limit: 5 # leave blank to include all the timeline in the `_timeline` folder

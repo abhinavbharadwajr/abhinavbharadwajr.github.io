@@ -1,9 +1,9 @@
 ---
 layout: page
 title: BookmyTrip
-enable_hyperlink: true
 description: |
  · a Basic program developed in C++ to demonstrate Travel Ticket Booking system.
+enable_hyperlink: true
 github: https://github.com/abhinavbharadwajr/bookmytrip
 img:
 importance: 2
