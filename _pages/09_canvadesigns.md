@@ -4,7 +4,7 @@ title: canva designs
 permalink: /canvadesigns/
 description: canva designs for various activities and public usage.
 nav: false
-nav_order: 5
+nav_order: 9
 display_categories: [albumart, posters]
 horizontal: true
 ---

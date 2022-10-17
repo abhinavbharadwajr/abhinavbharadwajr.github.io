@@ -2,7 +2,7 @@
 layout: page
 title: other works
 nav: false
-nav_order: 4
+nav_order: 7
 dropdown: true
 children: 
     - title: canva designs

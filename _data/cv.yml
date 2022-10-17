@@ -66,22 +66,7 @@
       year: 2021 - present
       description: an Tiring yet Interesting attempt to make a Fully Functioning hackintosh machine on hp Pavilion Gaming 15-dk1514TX based on OpenCore Bootloader.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Cloud and Beyond.
-      items:
-        - Exploring Cloud Technology and it's wide open scope in the evolving Modern Industry
-        - DevOps Engineering
-    - title: Writing Tech Blog
-      items:
-        - Writing about latest Tech in the Town is a favorite Hobby.
-    - title: Artificial Intelligence & Machine Learning
-      items: 
-        - Exploring capabilities of AI across various wokrspace.
-        - Learning to Train ML Models for Data Analysis and Data ETL workloads
-
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Music, Book Reading, Photography, Graphic Development, Audio and Video Editing, Cooking (occasionally), Housekeeping
+    - <u>Hobbies:</u> Music, Book Reading, Writing Tech Blog, Photography, Graphic Development, Audio and Video Editing, Cooking (occasionally), Housekeeping
