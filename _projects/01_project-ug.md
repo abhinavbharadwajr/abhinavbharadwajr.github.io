@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Symptom Analysis and Disease Prediction
+enable_hyperlink: true
 description: |
-    - A basic project comprising Python and Jupyter Notebooks to predict Disease based on the Symptoms from User Input.
-premalink: /projects/symptomanalysisanddiseaseprediction
+ · A basic project comprising Python and Jupyter Notebooks to predict Disease based on the Symptoms from User Input.
+github: https://github.com/abhinavbharadwajr/symptomanalysisanddiseaseprediction
 img:
 importance: 1
 category: academic
