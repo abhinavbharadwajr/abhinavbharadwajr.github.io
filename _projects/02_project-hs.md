@@ -3,6 +3,7 @@ layout: page
 title: BookmyTrip
 description: |
     - a Basic program developed in C++ to demonstrate Travel Ticket Booking system.
+permalink: /projects/bookmytrip
 img:
 importance: 2
 category: academic

@@ -3,7 +3,7 @@ layout: page
 title: HefticBions 2K19
 description: |
     - HefticBions 2K19, a National Level Technical Symposium by Students from Department of Biomedical Engineering at Shree Motilal Kanhaiyalal Fomra Institute of Technology
-img: /assets/img/proj-hfs-banner.png
+img: /assets/img/proj-hfb-banner.png
 redirect: https://abhinavbharadwajr.wixsite.com/hefticbions
 importance: 2
 category: event work
