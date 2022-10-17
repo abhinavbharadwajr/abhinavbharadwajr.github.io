@@ -4,7 +4,7 @@ title: Festive de Grafiya
 description: |
  · grafiya 2K19, a National Level Technical Symposium by Students from Department of Computer Science and Engineering at Shree Motilal Kanhaiyalal Fomra Institute of Technology
 img: /assets/img/proj-fdg-banner.png
-enable_hyperlink: true
+enablehyperlink: true
 redirect: https://abhinavbharadwajr.github.io/festivedegrafiya
 importance: 1
 category: event work

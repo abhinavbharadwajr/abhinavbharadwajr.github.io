@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Symptom Analysis and Disease Prediction
+title: Symptom Analysis and Disease Prognostication using Machine Learning and Big Data
 description: |
  · A basic project comprising Python and Jupyter Notebooks to predict Disease based on the Symptoms from User Input.
-enable_hyperlink: true
+enablehyperlink: true
 github: https://github.com/abhinavbharadwajr/symptomanalysisanddiseaseprediction
 img:
 importance: 1
 category: academic
 ---
-
-<h2>Symptom Analysis and Disease Prognostication using Machine Learning and Big Data</h2>
 
 Developed along with Mr. [Kingston M](https://www.instagram.com/kingston_jamaika/), B.E., as part of our Finnal Semester Academic Project for out U.G. Programme in Engineering.
 

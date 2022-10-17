@@ -59,13 +59,6 @@
       description:
         - CGPA - 8.60 / 10
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/abhinavbharadwajr/hpPavilionGamingLaptop15-dk1514TX-hackintosh">hackintosh on hp Pavilion Gaming 15-dk1514TX based on OpenCore</a>
-      year: 2021 - present
-      description: an Tiring yet Interesting attempt to make a Fully Functioning hackintosh machine on hp Pavilion Gaming 15-dk1514TX based on OpenCore Bootloader.
-
 - title: Other Interests
   type: list
   contents:
