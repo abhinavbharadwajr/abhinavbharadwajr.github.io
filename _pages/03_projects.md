@@ -5,7 +5,7 @@ permalink: /projects/
 description: A list of my academic and research projects.
 nav: true
 nav_order: 2
-display_categories: [academic, inquisitive]
+display_categories: [academic, event work, inquisitive]
 horizontal: false
 ---
 

@@ -1,11 +1,13 @@
-<p align="center">
-    <a href="https://github.com/{{ include.username }}">
-      <img class="repo-img-light w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true">
-      <img class="repo-img-dark w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true">
-    </a>
+<div class="repo p-2 text-center">
+  <p align="center">
+      <a href="https://github.com/{{ include.username }}">
+        <img class="repo-img-light w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true">
+        <img class="repo-img-dark w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true">
+      </a>
 
-    <a href="https://github.com/{{ include.username }}" style={"padding":10px}>
-      <img class="repo-img-light w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true&langs_count=3" />
-      <img class="repo-img-dark w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true&langs_count=3" />
-    </a>
-</p>
+      <a href="https://github.com/{{ include.username }}">
+        <img class="repo-img-light w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_light }}&show_icons=true&langs_count=3" />
+        <img class="repo-img-dark w-100" alt="{{ include.username }}" src="https://github-readme-stats.vercel.app/api/top-langs/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&show_icons=true&langs_count=3" />
+      </a>
+  </p>
+</div>

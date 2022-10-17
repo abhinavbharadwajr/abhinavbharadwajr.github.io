@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Festive de Grafiya
-description: Website of grafiya 2K19, a National Level Technical Symposium
-img: assets/img/proj-fdg-banner.png
-redirect: https://abhinavbharadwajr.github.io/festivedegrafiya
-importance: 3
+title: BookmyTrip
+description: |
+    - a Basic program developed in C++ to demonstrate Travel Ticket Booking system.
+img:
+importance: 2
 category: academic
 ---
 

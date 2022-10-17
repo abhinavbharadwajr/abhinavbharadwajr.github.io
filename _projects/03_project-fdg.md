@@ -1,10 +1,12 @@
 ---
 layout: page
-title: BookmyTrip - Travel Ticketing System
-description: a Basic program developed in C++ to demonstrate Travel Ticket Booking system.
-img: assets/img/proj-hs-banner.png
-importance: 2
-category: academic
+title: Festive de Grafiya
+description: |
+    - grafiya 2K19, a National Level Technical Symposium by Students from Department of Computer Science and Engineering at Shree Motilal Kanhaiyalal Fomra Institute of Technology
+img: /assets/img/proj-fdg-banner.png
+redirect: https://abhinavbharadwajr.github.io/festivedegrafiya
+importance: 1
+category: event work
 ---
 
 Every project has a beautiful feature showcase page.

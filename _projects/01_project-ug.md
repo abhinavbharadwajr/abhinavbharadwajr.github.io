@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Symptom Analysis and Disease Prediction
-description: A basic project comprising Python and Jupyter Notebooks to predict Disease based on the Symptoms from User Input.
+description: |
+    - A basic project comprising Python and Jupyter Notebooks to predict Disease based on the Symptoms from User Input.
+img:
 importance: 1
 category: academic
 ---
