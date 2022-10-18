@@ -30,6 +30,11 @@ layout: default
             {% endif -%}
             {%- if page.profile.address %}
             <div class="address">
+              <div class="popup" onclick="showSpotify()"><i class="fa-xs fab fa-spotify" id="spotifyNow"></i>
+                <div class="popuptext" id="myPopup">
+                  <!-- The Spotify Data will appear here -->
+                  </div>
+              </div>
               {{ page.profile.address }}
             </div>
             {%- endif %}
