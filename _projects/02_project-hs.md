@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BookmyTrip
+title: BookmyTrip - Travel Ticketing System
 description: |
  · a Basic program developed in C++ to demonstrate Travel Ticket Booking system.
 enablehyperlink: true
@@ -10,74 +10,30 @@ importance: 2
 category: academic
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+***a Basic program developed to demonstrate Travel Ticket Booking system. Developed during my early days with C++ programming as a High school stud, this was a major break-through project pushing upto my limits as a programmer!***
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Initial Work (October '14 - March '15)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Basic idea is to obtain Customer Details like Name, Date of Birth, Phone Number, eMail Address (potenially to implement a User Profile in later developments) and List of Passengers and their details.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Post obtaing Customer Data - the flow moves to Ticket Booking, where we list a set of Cities for Origin (Depature) and Destination (Arrival) and Fare Calculation based on choices opted.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+Optional Menu - where Customer is Offered to Book Hotel Accomodation that are nearby to their Travel Destination
 
+Intially developed version lacked to feature to Cancel to Bookings Made and the Fares were Fixed (not dynamic)
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+this Project was an effort with my Dear Friend - [Ganesh D Dolia](https://www.linkedin.com/in/ganeshdolia/)
 
+## Post Project-Period Development (2021 - Present)
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Back in 2021, I found this Gem of my High School - taking me back to those Days of Intense Coding, Search for Ideas and Code Help over the Internet.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+I decided to continue working this side-by-side with my Work, and I was out-of-blue to coding when I started - all being completly out of touch with Coding for almost 2yrs.
+
+So, I decided to 3 things to do :
+
+1. To upgrade and re-make the [Original C++ Code](https://github.com/abhinavbharadwajr/bookmytrip/tree/main/project.cppfol/oldmain.cpp) to lastest C++ Standards (C++11 and above)
+
+2. To re-make this Project in Java and Python - that wat to increase the Code base and Learn them both Totally from Scratch.
+
+3. To make a Web-app of the Same - which unfortunetly I won't be able to, since there is already a Website under the Name ***["bookmytrip.co"](https://www.bookmytrip.co/)***

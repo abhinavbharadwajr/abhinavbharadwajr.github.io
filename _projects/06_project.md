@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C and C++ Examples
+title: C / C++ Examples
 description: |
  · Basic and Advance (Real-Time Solutions) programs written in C and C++.
 img:
