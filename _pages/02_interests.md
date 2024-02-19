@@ -26,7 +26,7 @@ It's has become an Integral part of every Development process to look room of im
 
 ## **What else, if it matters to you?**
 
-I was born and raised in an urban City - Chennai of Thamizh Nadu, an Indian state rich in culture and diversity. My father is a Master in Electrical Engineering and is involved with Otis Elevator India. We speak a dilect of Dravidian language, known as Thamizh (regarded as World's First Language). My district is known for various Iconis Places : Marina Beach, Chennai Port, Beaches of East Coast Road, OMR-IT Highway and much more.
+I was born and raised in an urban City - Chennai of Thamizh Nadu, an Indian state rich in culture and diversity. My father is a Master in Electrical Engineering and is involved with Otis Elevator India. We speak a dilect of Dravidian language, known as Thamizh (regarded as World's First Language). My district is known for various Iconic Places : Marina Beach, Chennai Port, Beaches of East Coast Road, OMR-IT Highway and much more.
 
 I love **Formula One** and I am a **Lewis Hamilton** Fan boy. I enjoy riding motorbikes (mostly fast-yet-careful racing). I play cricket; I am a wicketkeeper. That view of the game from behind the stumps is extraordinary. I have occasionally played football; I am a goalkeeper. I love beach time (The Arabian sea is my neighbour). Watching movies / series on weekends has always been there since my undergrad studies (sometimes, I do binge-watch). In addition to all these fun stuff, I am also interested in psychology, philosophy, spirituality, stock and economics.
 
