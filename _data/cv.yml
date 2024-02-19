@@ -11,13 +11,13 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: Software Engineer - Cloud
+    - title: Software Engineer Trainee
       institution: Servion Global Solutions Private Limited
       year: 2021 - Present
       description:
-        - Genesys Cloud CX Development / Implementation Engineer
-        - Genesys IVR Developer – Java Based Application
-    - title: Networking Engineer
+        - Genesys Engage IVR Developer
+        - Genesys Cloud CX Certified Developer
+    - title: Site Reliability Engineer - Networking
       institution: Tejas Networks Limited
       year: 2019 - 2021
       description:

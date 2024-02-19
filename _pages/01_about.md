@@ -20,12 +20,12 @@ Hey there :wave: Thanks for stopping by :wink: :v:
 
 I'm Abhinav, a Computer Science and Engineering Graduate from Chennai, India.
 
-Currently associated with [Servion Global Solutions](https://servion.com/) as Software Engineer, I work on implementing Cloud based Contact Center Solutions and Third Party App Integration for CC Soultions.
+Senior Software Engineer in Java contributing towards Developments and Enhancements on Telebanking IVR for [Dubai Islamic Bank (DIB)](https://www.dib.ae).
 
 - [Genesys](https://www.genesys.com/en-sg/genesys-cloud) - [Cloud Certified Partner](https://www.credly.com/badges/52c41d7a-b5da-434b-9651-ce84bd20c0d4/public_url).
 - [Microsoft Certifed - Azure Complete Cloud Fundamentals](https://www.linkedin.com/posts/abhinavbharadwajr_microsoft-azure-activity-6983442038218272768-2x2f?utm_source=share&utm_medium=member_desktop)
 
-Previously worked with [Tejas Networks Limited](https://www.tejasnetworks.com/) as Networking Engineer. Used to work with Transport Layer Equipments (MuX and De-MuX) and Network Technologies like Synchronous Digital Hierarchy (SDH), Optical Transport Network (OTN) and Dense wavelength-division multiplexing (DWDM) configurations.
+Previously was working as Site Reliability Engineer - Networking at [Tejas Networks Limited](https://www.tejasnetworks.com/). Full-time involved in provisioning new Transport Layer Equipments (MuX and De-MuX) based on Optical Transport Network (OTN) and Dense wavelength-division multiplexing (DWDM) and upgrading Network Rings for majar ISPs (TCL, Bharthi Airtel) from Synchronous Digital Hierarchy (SDH) configurations alongside supporting exsisting Netwokrs as well  .
 
 In my spare time, I enjoy Listening to Music, Discovering new Music and Artists, Curating Public Playlists on YouTube and Spotify. I Love Reading Books and I have a Mini Library Setup at Home.
 
