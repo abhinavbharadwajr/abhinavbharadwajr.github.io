@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Multi-Cloud DevOps Engineer</strong>  •  <strong>SE - CC Delivery</strong> @ <a href="https://servion.com/">Servion Global Solutions</a>  •  learn ⇄ imagine ⇆ build
+subtitle: <strong>Multi-Cloud DevOps Engineer</strong>  @ <a href="https://servion.com/">Servion Global Solutions</a>  •  learn ⇄ imagine ⇆ build
 profile:
   align: right
   image: prof_pic.png
