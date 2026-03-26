@@ -4,5 +4,5 @@ permalink: /curriculumvitae/
 title: curriculum vitae
 nav: true
 nav_order: 6
-cv_pdf: https://raw.githubusercontent.com/abhinavbharadwajr/abhinavbharadwajr/master/docs/v2/Abhinav%20Bharadwaj%20R%20-%20Resume.pdf
+cv_pdf: https://1drv.ms/b/c/5adcf1b2c2d83e24/IQCgkfdpuqbiTZguTZdqdAXnAZ3xumv8N7ynOoYTmNnH61s?e=6eIGcy
 ---
